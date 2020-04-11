@@ -1,2 +1,3 @@
 # DataCamp_Projects
-Projects on DataCamp
+
+Python & R projects on DataCamp. 
