@@ -1,3 +1,3 @@
 # DataCamp_Projects
 
-Python & R projects on DataCamp. 
+Python, R & SQL projects on DataCamp. 
