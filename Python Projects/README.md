@@ -28,7 +28,16 @@
 | `Naïve Bees: Predict Species from Images` | ```skimage.feature.hog```, ```skimage.color.rgb2grey```, ```sklearn.preprocessing.StandardScaler```, ```sklearn.decomposition.PCA```, ```sklearn.model_selection.train_test_split```, ```sklearn.svm.SVC```, ```sklearn.metrics.roc_curve```, ```sklearn.metrics.auc```, ```sklearn.metrics.accuracy_score``` |
 | `Predicting Credit Card Approvals` | ```sklearn.preprocessing.LabelEncoder```, ```sklearn.model_selection.train_test_split```, ```sklearn.preprocessingsklearn.preprocessing.MinMaxScaler```, ```sklearn.linear_model.LogisticRegression```, ```sklearn.metrics.confusion_matrix```, ```sklearn.model_selection.GridSearchCV``` |
 | `Real-time Insights from Social Media Data` | ```json```, ```collections.Counter```, Data Manipulation |
-
-
-
-
+| `Real-time Insights from Social Media Data` | ```json```, ```collections.Counter```, Data Manipulation |
+| `Recreating John Snow's Ghost Map` | Data Manipulation, ```bokeh``` |
+| `Reducing Traffic Mortality in the USA` | ```!+linux```, ```seaborn```, ```sklearn.linear_model```, ```sklearn.preprocessing.StandardScaler```, ```sklearn.decomposition.PCA```, ```sklearn.cluster.KMeans``` |
+| `Risk and Returns: The Sharpe Ratio` | Data Manipulation, Data Visualization |
+| `TV, Halftime Shows, and the Big Game` | Data Manipulation, Data Visualization |
+| `The Android App Market on Google Play` | ```plotly```, ```seaborn```, Data Visualization |
+| `The GitHub History of the Scala Language` | Data Manipulation, Data Visualization |
+| `The Hottest Topics in Machine Learning` | Data Manipulation, Data Visualization, ```wordcloud```, ```sklearn.feature_extraction.text.CountVectorizer```, ```sklearn.decomposition.LatentDirichletAllocation``` |
+| `Up and Down With the Kardashians` | Data Manipulation, Data Visualization |
+| `Which Debts Are Worth the Bank's Effort?` | Data Manipulation, Data Visualization, ```scipy.stats```, ```statsmodels.api.sm``` |
+| `Who Is Drunk and When in Ames, Iowa?` | Data Manipulation, Data Visualization |
+| `Who's Tweeting? Trump or Trudeau?` | Data Manipulation, Data Visualization |
+| `Word Frequency in Moby Dick` | ```request```, ```bs4.BeautifulSoup```, ```nltk```, HTML Files |
